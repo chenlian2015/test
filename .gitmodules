@@ -1,0 +1,3 @@
+[submodule "submoudleD"]
+	path = submoudleD
+	url = https://github.com/chenlian2015/submodule.git
